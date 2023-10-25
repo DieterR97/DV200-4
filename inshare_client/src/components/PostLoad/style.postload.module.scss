@@ -1,0 +1,52 @@
+.card {
+    width: 100%;
+    border-radius: 10px;
+    border: 2px solid #d9d9d99c;
+    background: #ffffff00;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.placeholderText {
+    background: linear-gradient(90deg, #eeeeee 25%, #dddddd 50%, #eeeeee 75%);
+    height: 18px;
+    /* Adjust the height as needed */
+    width: 80%;
+    /* Adjust the width as needed */
+    margin-bottom: 10px;
+}
+
+.placeholderImage {
+    background: linear-gradient(90deg, #eeeeee 25%, #dddddd 50%, #eeeeee 75%);
+    height: 150px;
+    /* Adjust the height as needed */
+    width: 100%;
+    /* Adjust the width as needed */
+    margin-bottom: 10px;
+}
+
+.placeholderCategory {
+    background: linear-gradient(180deg, rgba(217, 217, 217, 0.00) -18.95%, #ffffff 25%, #ffffff 100%);
+    height: 24px;
+    /* Adjust the height as needed */
+    width: 50%;
+    /* Adjust the width as needed */
+    margin-top: -40px;
+    /* Adjusted margin */
+    margin-bottom: 5px;
+}
+
+.placeholderAuthor,
+.placeholderDate,
+.placeholderComments {
+    background: linear-gradient(90deg, #eeeeee 25%, #dddddd 50%, #eeeeee 75%);
+    height: 16px;
+    /* Adjust the height as needed */
+    width: 40%;
+    /* Adjust the width as needed */
+}
