@@ -34,6 +34,8 @@ inShare Platform is tailored specifically for Open Window Development students, 
 
 ### User-Flow Diagram:
 - Created a comprehensive user-flow diagram detailing the steps from login to asking and answering questions, aiding in understanding the user journey and identifying potential bottlenecks or improvements.
+  ![Frame 3](https://github.com/DieterR97/DV200-4/assets/113914027/49bc1323-45d3-4012-be18-94e516481feb)
+
 
 ### Entity-Relationship Diagram (ERD):
 - Developed an ERD to map out the relationships between different entities (users, questions, answers, tags, etc.), assisting in database structuring and optimization.
