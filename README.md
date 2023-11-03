@@ -18,7 +18,7 @@ inShare Platform is tailored specifically for Open Window Development students, 
 - Upvoting/downvoting system for answers.
 - Sorting and filtering options for better organization.
 
-### 3. Tagging and Categorization:
+### 3. Categorization:
 - Categorization of questions through tags.
 - Easy search functionality based on tags.
 
