@@ -10,16 +10,16 @@ inShare Platform is tailored specifically for Open Window Development students, 
 
 ### 1. User Authentication:
 - Secure login/registration for students and faculty members.
-- Role-based access control.
+- User and Admin access
 
 ### 2. Question and Answer Threads:
 - Students can post questions.
 - Answers can be provided by both peers and faculty.
 - Upvoting/downvoting system for answers.
-- Sorting and filtering options for better organization.
+- Sorting and filtering options for better organisation.
 
 ### 3. Categorization:
-- Categorization of questions through tags.
+- Categorisation of questions through tags.
 - Easy search functionality based on tags.
 
 ### 4. Notifications and User Engagement:
