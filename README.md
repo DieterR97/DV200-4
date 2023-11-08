@@ -126,7 +126,8 @@ npm install
 - Users can upvote or downvote answers to questions, allowing the community to rank the quality and relevance of answers.
 - This feature promotes user engagement and helps surface the most helpful responses.
   
-![Screenshot 2023-11-08 at 23 07 23 (2)](https://github.com/DieterR97/DV200-4/assets/113914027/f3123e32-d14c-44d9-b4e9-a5d4ddf8c87c)
+![Screenshot 2023-11-08 at 23 04 08 (2)](https://github.com/DieterR97/DV200-4/assets/113914027/1a33ce3e-f86f-4fdc-b689-7ffc8c92a586)
+
 
 ## Feature 5 
 5. User Profile and Reputation System:
