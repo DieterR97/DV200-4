@@ -1,17 +1,24 @@
-# DV200-4
+<p align="center">
+### DV200-4
 **inShare Q&A Platform for Open Window Development Students**
+</p>
 
 ![Frame 4](https://github.com/DieterR97/DV200-4/assets/113914027/6bbbfd4e-2e11-43cd-aa2f-68de430d86f2)
 
+<p align="center">
 Welcome to our Q&A Platform named inShare designed to facilitate Open Window Development students' collaboration, learning, and knowledge-sharing. This README provides an overview of the project, its features, functionality, and the planning undertaken during its development.
+</p>
 
-## Project Title Block:
+<p align="center">
+# Project Title Block:
 inShare: a Q&A Website (platform) for Open Window Development Student
-Contributors: 
-Luca Breebart 
-Dieter Roelofse 
-Jarryd Carelse 
-Emily Fulford	
+# Contributors: 
+Luca Breebart 221345
+Dieter Roelofse 221122
+Jarryd Carelse	221267
+Emily Fulford	221075
+</p>
+
 
 ## Table of Contents:
 
@@ -41,284 +48,203 @@ Emily Fulford
   - Acknowledgments
 
 
+### About the project
 
+## Project description
+inShare Platform is tailored specifically for Open Window Development students, aiming to create a centralized space for asking questions, sharing insights, and fostering a community-driven learning environment. The theme revolves around simplicity, accessibility, and user engagement. We incorporated a orange and white themed platform for easy readability.
 
-Final Output (Demo)
+## Built With
+* Figma
+* Vs Code
+* MongoDB
+* Express.js
+* React App
+* Node.js
+* Uploadcare
+* Insomnia
 
-Conclusion
-
-
-GitHub repo size GitHub watchers GitHub language count GitHub code size in bytes LinkedIn Instagram Behance
-
-Your Name & Surname
-Student Number
-Subject Name & Year
-
-Logo
-
-Project Name
-Short Project Slogan / Description
-Explore the docs »
-
-View Demo · Report Bug · Request Feature
-
-## Table of Contents
-About the Project
-Project Description
-Built With
-Getting Started
-Prerequisites
-How to install
-Features and Functionality
-Concept Process
-Ideation
-Wireframes
-User-flow
-Development Process
-Implementation Process
-Highlights
-Challenges
-Reviews and Testing
-Feedback from Reviews
-Unit Tests
-Future Implementation
-Final Outcome
-Mockups
-Video Demonstration
-Conclusion
-Roadmap
-Contributing
-License
-Contact
-Acknowledgements
-About the Project
-image1
-
-Project Description
-A nice introduction to this amazing project of mine.
-
-Built With
-Technology Name
-Technology Name
-Technology Name
-Getting Started
+### Getting started
 The following instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-Prerequisites
-Ensure that you have the latest version of Software installed on your machine. The Plugin plugin will also be required.
+## Prerequisites
 
-How to install
-Installation
+Ensure that you have the latest version of React, Node.js and Express.js is installed on your machine. The Plugin plugin will also be required.
+
+## How to install
+
 Here are a couple of ways to clone this repo:
 
-Software
+1. Software
 Android Studio -> File -> New -> From Version Control -> Git
 Enter https://github.com/username/projectname.git into the URL field and press the Clone button.
 
-Clone Repository
+2. Clone Repository
 Run the following in the command-line to clone the project:
-
 git clone https://github.com/username/projectname.git
+
 Open Software and select File | Open... from the menu. Select cloned directory and press Open button
 
-Install Dependencies
+3.Install Dependencies
 Run the following in the command-line to install all the required dependencies:
-
 npm install
-Get a free API Key at https://example.com and enter it in the config.js file:
-
-const API_KEY = 'ENTER YOUR API';
-Features and Functionality
-image2
-
-Feature 1
-Description of Feature
-
-image3
-
-Feature 2
-Description of Feature
-
-image4
-
-Feature 3
-Description of Feature
-
-image5
-
-Concept Process
-The Conceptual Process is the set of actions, activities and research that was done when starting this project.
-
-Ideation
-image5
-image6
-
-Wireframes
-image7
-
-User-flow
-image8
-
-Development Process
-The Development Process is the technical implementations and functionality done in the frontend and backend of the application.
-
-Implementation Process
-Made use of both functionality to implement a specific feature.
-MVC/MVVM design architecture implemented.
-Plugin for this.
-ETC.
-Highlights
-Sunshine.
-Rainbows.
-Challenges
-Bugs.
-Bugs.
-Reviews & Testing
-Feedback from Reviews
-Peer Reviews were conducted by my fellow students and lecturer. The following feedback I found useful:
-
-Feedback one.
-Feedback two.
-Unit Tests
-Unit Tests were conducted to establish working functionality. Here are all the tests that were ran:
-
-Test 1 of this functionality
-Test 2 of this functionality
-Future Implementation
-Future 1.
-Future 2.
-Final Outcome
-Mockups
-image9
-image10
-
-Video Demonstration
-To see a run through of the application, click below:
-
-View Demonstration
-
-Roadmap
-See the open issues for a list of proposed features (and known issues).
-
-Contributing
-Contributions are what makes the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
-
-Fork the Project
-Create your Feature Branch (git checkout -b feature/AmazingFeature)
-Commit your Changes (git commit -m 'Add some AmazingFeature')
-Push to the Branch (git push origin feature/AmazingFeature)
-Open a Pull Request
-Authors
-Your Name & Surname - username
-License
-Distributed under the MIT License. See LICENSE for more information.\
-
-Contact
-Your Name & Surname - email@address - @instagram_handle
-Project Link - https://github.com/username/projectname
-Acknowledgements
-Resource Name
-Resource Name
-Resource Name
-Resource Name
-Resource Name
-About
-Portfolio ReadMe Template for DV300 students
-
-Resources
- Readme
- Activity
-Stars
- 0 stars
-Watchers
- 1 watching
-Forks
- 4 forks
-Report repository
-Releases
-No releases published
-Packages
-No packages published
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
 
 
-## Theme:
-inShare Platform is tailored specifically for Open Window Development students, aiming to create a centralized space for asking questions, sharing insights, and fostering a community-driven learning environment. The theme revolves around simplicity, accessibility, and user engagement. We incorporated a orangeand white themed platform for easy readability
+### Project Features
 
-## Features and Functionality:
-
-### 1. User Authentication:
+## Feature 1
+1. User Authentication:
 - Secure login/registration for students and faculty members.
 - User and Admin access
 
-### 2. Question and Answer Threads:
+![Screenshot 2023-11-08 at 23 01 50 (2)](https://github.com/DieterR97/DV200-4/assets/113914027/b232d7ca-0a78-4331-a4d8-7bb7cf9fe2d2)
+
+## Feature 2
+2. Question and Answer Threads:
 - Students can post questions.
 - Answers can be provided by both peers and faculty.
 - Upvoting/downvoting system for answers.
 - Sorting and filtering options for better organisation.
 
-### 3. Categorization:
+![Screenshot 2023-11-08 at 23 04 08 (2)](https://github.com/DieterR97/DV200-4/assets/113914027/de675aff-2f4a-4117-a71c-e744e6d91a25)
+
+## Feature 3 
+3. Categorisation:
 - Categorisation of questions through tags.
 - Easy search functionality based on tags.
 
-### 4. Notifications and User Engagement:
-- Notification system for updates on answered questions, comments, and mentions.
-- User engagement features, such as commenting and direct messaging.
+## Feature 4 
+4. Upvoting and Downvoting Answers:
+- Users can upvote or downvote answers to questions, allowing the community to rank the quality and relevance of answers.
+- This feature promotes user engagement and helps surface the most helpful responses.
+  
+![Screenshot 2023-11-08 at 23 07 23 (2)](https://github.com/DieterR97/DV200-4/assets/113914027/f3123e32-d14c-44d9-b4e9-a5d4ddf8c87c)
 
-### 5. User Profiles and Reputation:
-- User profiles highlighting questions asked, answered, and overall contributions.
-- Reputation points based on the quality and quantity of contributions.
+## Feature 5 
+5. User Profile and Reputation System:
+- Each user has a profile that displays their activity, contributions, and reputation within the community, represented in percentages.
+- A reputation system assigns a percentage score to users based on their contributions, upvotes received, and the 
 
-## Development Planning:
+![Screenshot 2023-11-08 at 23 08 47 (2)](https://github.com/DieterR97/DV200-4/assets/113914027/bdf99016-951c-4be1-a0a9-e9d3cc9087e5)
 
-### User-Flow Diagram:
-- Created a comprehensive user-flow diagram detailing the steps from login to asking and answering questions, aiding in understanding the user journey and identifying potential bottlenecks or improvements.
-  ![Frame 3](https://github.com/DieterR97/DV200-4/assets/113914027/49bc1323-45d3-4012-be18-94e516481feb)
+## Additional Feature 1
+1. Additional Feature 1: Additional CSS:
+- Gradient loading Post Animations.
+- Display flex, responsiveness
+- Jsx + scss
+ 
+![Screenshot 2023-11-08 at 23 10 52 (2)](https://github.com/DieterR97/DV200-4/assets/113914027/40a4f8d6-1409-4ab4-a27a-585e26a53be0)
+
+## Additional Feature 2
+2. Additional Feature 2: Scroll to Top
+- Scroll up button to allow the user to immediately return to the top of the page.
+  
+![Screenshot 2023-11-08 at 23 12 10 (2)](https://github.com/DieterR97/DV200-4/assets/113914027/cc013a56-9e92-4959-b34a-c092d647b992)
+
+## Additional Feature 3
+3. Additional Feature 3: Explore Page (Randomise)
+- The randomise button on the explore page allows the user to get different random posts everytime they press the button.
+
+![Screenshot 2023-11-08 at 23 13 46 (2)](https://github.com/DieterR97/DV200-4/assets/113914027/950fb213-971f-42b5-b7b2-ee0b834d6acf)
+
+### Development Process
+
+## Ideation
+<img width="315" alt="Screenshot 2023-11-08 at 23 35 25" src="https://github.com/DieterR97/DV200-4/assets/113914027/4a57bc6e-d58a-4e82-a1e1-753267d09460">
+
+## Inspiration/ Mood Board
+
+<img width="317" alt="Screenshot 2023-11-08 at 23 35 30" src="https://github.com/DieterR97/DV200-4/assets/113914027/8c8d9d89-cc82-4522-99e7-e24669d4461f">
 
 
-### Entity-Relationship Diagram (ERD):
-- Developed an ERD to map out the relationships between different entities (users, questions, answers, tags, etc.), assisting in database structuring and optimization.
+## Wireframes
+<img width="290" alt="Screenshot 2023-11-08 at 23 35 35" src="https://github.com/DieterR97/DV200-4/assets/113914027/7a291fc2-a441-4a76-8837-c6bd557854d3">
+<img width="286" alt="Screenshot 2023-11-08 at 23 35 37" src="https://github.com/DieterR97/DV200-4/assets/113914027/69aef24a-526f-46f7-9abb-1e2c8cef8824">
+<img width="296" alt="Screenshot 2023-11-08 at 23 35 43" src="https://github.com/DieterR97/DV200-4/assets/113914027/0568d496-db0e-45ee-bf01-31b17fdc44f9">
+<img width="292" alt="Screenshot 2023-11-08 at 23 35 46" src="https://github.com/DieterR97/DV200-4/assets/113914027/f0bbe884-7cdd-45d2-84c9-14206d219d57">
+<img width="285" alt="Screenshot 2023-11-08 at 23 35 49" src="https://github.com/DieterR97/DV200-4/assets/113914027/04461842-c432-4f53-916b-4b643ccfdcb9">
 
-### Planning and Milestones:
-- Utilized agile methodology with sprints and milestones.
-- Regular meetings to evaluate progress and address any challenges.
-- Continuous testing and iterative development for optimal user experience.
 
-## Tools and Technologies Used:
-- Frontend: HTML, CSS, JavaScript, React
-- Backend: Node.js, Express, MongoDB
-- Additional: Git for version control, Figma for design mockups, and Postman for API testing.
+## Userflow Diagram
+
+ ![Frame 3](https://github.com/DieterR97/DV200-4/assets/113914027/49bc1323-45d3-4012-be18-94e516481feb)
+
+The Development Process is the technical implementations and functionality done in the frontend and backend of the InShare Website.
+
+## Implementation Process
+
+* Made use of the above-mentioned functionality and technologies to implement the specific features.
+* MERN design architecture implemented
+
+## Highlights
+
+* Collaborative Development Process:
+Working in a group allows for a collaborative development process in building a Q&A platform using the MERN stack. With multiple team members, you can allocate tasks efficiently, dividing responsibilities among frontend (using React), backend (with Node.js and Express), and database management (using MongoDB). This collaboration ensures that different components are developed simultaneously, streamlining the overall development timeline and allowing for faster iteration and feedback loops.
+
+* Diverse Skill Sets and Ideas:
+Each team member brings unique skills and ideas to the table. Some excel in frontend design and user experience, while others specialise in backend architecture or database optimisation. Leveraging these diverse skill sets and perspectives ensures a comprehensive approach to problem-solving and enhances the quality of the Q&A platform. It allows for the incorporation of various features and functionalities that cater to the needs of users while optimizing performance and user experience.
+
+## Challenges
+
+* Coordination and Communication:
+One significant challenge is coordinating the efforts of all team members, especially when working on different components of the MERN stack. Synchronization becomes crucial as frontend, backend, and database development need to align seamlessly. Ensuring effective communication and synchronization among team members is vital to avoid conflicts in code integration, functionalities, or design.
+
+* Differing Skill Levels and Approaches:
+The Team members have varying skill levels and approaches to problem-solving or coding practices. While diversity in skill sets can be an asset, it can also pose a challenge in terms of maintaining consistency and standard practices throughout the project. Differences in coding styles, architectural preferences, or understanding of the technologies can sometimes lead to conflicts.
+
+* Implementation of Github:
+When multiple team members are working on the same repository or the same files simultaneously, there's a chance of encountering merge conflicts. This occurs when Git cannot automatically resolve differences in code between two commits. Resolving these conflicts can be complex and time-consuming, requiring careful manual intervention to ensure the changes integrate seamlessly.
+
+## Reviews & Testing
+
+# Feedback from Reviews
+Peer Reviews were conducted by my fellow students and lecturer. The following feedback I found useful:
+* Make sure the user cannot upvote or downvote his own posts
+* Have the user be able to change his profile picture
+* Make sure there is consistency between the names of features (Such as Tags)
+
+# Future Implementation
+* Allow users to log into different Subject Q&A's in order to allow anyone from any department to use the inShare Platform.
+
+### Final Outcome
+
+##Mockups
+
+![Screenshot 2023-11-08 at 23 33 11 (2)](https://github.com/DieterR97/DV200-4/assets/113914027/5b4dbf9d-70a1-4ea8-830e-fa330b76b08c)
+
+![Screenshot 2023-11-08 at 23 33 31 (2)](https://github.com/DieterR97/DV200-4/assets/113914027/4160cc01-bf41-49f1-9ffd-79045ca853c8)
 
 * ### Video Demonstration
 
 [Video Demonstration Drive Link](https://drive.google.com/file/d/1WvWHTxsVBskrJgcbR0LrZ5OeylZUM_dh/view?usp=sharing)
 
+**Authors**
+* Luca Breebart 221345@virtualwindow.co.za
+* Dieter Roelofse 221122@virtualwindow.co.za
+* Jarryd Carelse	221267@virtualwindow.co.za
+* Emily Fulford	221075@virtualwindow.co.za
+
+
 **Get Involved:**
 We encourage Open Window Development students to contribute, provide feedback, and help improve this platform. Fork this repository, make your changes, and submit a pull request.
 
-**Acknowledgments:**
-We appreciate the support and guidance from the Open Window Development faculty and the valuable contributions from our student community.
-
 **License:**
-This project is licensed under the [insert license type] license.
+This project is licensed under the MIT license.
 
 For setup instructions and detailed documentation, please refer to the Wiki section or the provided documentation.
 
-**Maintainers:**
-[List of maintainers or contributors]
+**Acknowledgments:**
+* https://favicon.io/
+* Aramand ReadMe file template
+https://github.com/Armand-OW/portfolioTemplate-OW#features-and-functionality
+
+**Contact**
+* Luca Breebart 221345@virtualwindow.co.za
+* Dieter Roelofse 221122@virtualwindow.co.za
+* Jarryd Carelse	221267@virtualwindow.co.za
+* Emily Fulford	221075@virtualwindow.co.za
+#Project Link:
+https://github.com/DieterR97/DV200-4/edit/master/
+
 
 Feel free to reach out with any questions, feedback, or suggestions!
 
