@@ -4,7 +4,7 @@ DV200-4
 inShare Q&A Platform for Open Window Development Students
 </h1>
 
-![Frame 4](https://github.com/DieterR97/DV200-4/assets/113914027/6bbbfd4e-2e11-43cd-aa2f-68de430d86f2)
+![header](https://github.com/DieterR97/DV200-4/assets/113914027/6bbbfd4e-2e11-43cd-aa2f-68de430d86f2)
 
 <br>
 
