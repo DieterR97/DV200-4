@@ -1,22 +1,31 @@
-<p align="center">
-### DV200-4
-**inShare Q&A Platform for Open Window Development Students**
-</p>
+<h1 align="center">
+DV200-4
+ <br>
+inShare Q&A Platform for Open Window Development Students
+</h1>
 
 ![Frame 4](https://github.com/DieterR97/DV200-4/assets/113914027/6bbbfd4e-2e11-43cd-aa2f-68de430d86f2)
+
+<br>
 
 <p align="center">
 Welcome to our Q&A Platform named inShare designed to facilitate Open Window Development students' collaboration, learning, and knowledge-sharing. This README provides an overview of the project, its features, functionality, and the planning undertaken during its development.
 </p>
 
-<p align="center">
+<h1 align="center">
 # Project Title Block:
+</h1>
+<p align="center">
 inShare: a Q&A Website (platform) for Open Window Development Student
+</p>
+<h1 align="center">
 # Contributors: 
-Luca Breebart 221345
-Dieter Roelofse 221122
-Jarryd Carelse	221267
-Emily Fulford	221075
+</h1>
+<p align="center">
+*Luca Breebart 221345
+*Dieter Roelofse 221122
+*Jarryd Carelse	221267
+*Emily Fulford	221075
 </p>
 
 
