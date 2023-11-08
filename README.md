@@ -85,20 +85,40 @@ Ensure that you have the latest version of React, Node.js and Express.js is inst
 
 Here are a couple of ways to clone this repo:
 
-1. Software
-Android Studio -> File -> New -> From Version Control -> Git
-Enter https://github.com/username/projectname.git into the URL field and press the Clone button.
 
-2. Clone Repository
+1. Open Visual Studio in a folder you want to clone the project
+
+2. Clone Repository </br>
 Run the following in the command-line to clone the project:
-git clone https://github.com/username/projectname.git
+   ```sh
+   git clone https://github.com/DieterR97/DV200-4.git
+   ```
+and cd into main folder
+   ```sh
+   cd inShareMERN_web
+   ```
 
-Open Software and select File | Open... from the menu. Select cloned directory and press Open button
-
-3.Install Dependencies
+3. Install Dependencies </br>
 Run the following in the command-line to install all the required dependencies:
-npm install
+   ```sh
+   npm install
+   ```
+and cd into client folder
+   ```sh
+   cd client
+   npm install
+   ```
 
+4. Run it </br>
+Run the following in the command-line to run this app:
+from the main folder
+   ```sh
+   npm run dev
+   ```
+and from the client folder
+   ```sh
+   npm start
+   ```
 
 ### Project Features
 
