@@ -12,6 +12,8 @@ inShare Q&A Platform for Open Window Development Students
 Welcome to our Q&A Platform named inShare designed to facilitate Open Window Development students' collaboration, learning, and knowledge-sharing. This README provides an overview of the project, its features, functionality, and the planning undertaken during its development.
 </p>
 
+[Live Site](https://insharemernheroku-301cbd4d0345.herokuapp.com/)
+
 <h1 align="center">
 # Project Title Block:
 </h1>
