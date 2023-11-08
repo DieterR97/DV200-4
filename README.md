@@ -50,6 +50,10 @@ inShare Platform is tailored specifically for Open Window Development students, 
 - Backend: Node.js, Express, MongoDB
 - Additional: Git for version control, Figma for design mockups, and Postman for API testing.
 
+* ### Video Demonstration
+
+[Video Demonstration Drive Link](https://drive.google.com/file/d/1WvWHTxsVBskrJgcbR0LrZ5OeylZUM_dh/view?usp=sharing)
+
 **Get Involved:**
 We encourage Open Window Development students to contribute, provide feedback, and help improve this platform. Fork this repository, make your changes, and submit a pull request.
 
