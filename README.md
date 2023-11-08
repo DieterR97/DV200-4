@@ -175,7 +175,7 @@ npm install
 
 ## Userflow Diagram
 
- ![Frame 3](https://github.com/DieterR97/DV200-4/assets/113914027/49bc1323-45d3-4012-be18-94e516481feb)
+<img width="1540" alt="Frame 5" src="https://github.com/DieterR97/DV200-4/assets/113914027/952a0f44-ef78-4546-98c5-bc5b06d40931">
 
 The Development Process is the technical implementations and functionality done in the frontend and backend of the InShare Website.
 
